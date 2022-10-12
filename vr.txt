@@ -1,7 +1,1 @@
-<script>
-name {יצחק
-}
-vr{משה
-{
-</script>
-
+1.3

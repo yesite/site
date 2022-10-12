@@ -1,5 +1,6 @@
-2.0
+<script>
 name {יצחק
 }
 vr{משה
 {
+</script>

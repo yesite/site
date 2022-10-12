@@ -1,5 +1,0 @@
-mongodb+srv://davidgit:david0542398648@cluster0.audoy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
-
-https://davidgithu.herokuapp.com/profile
-
-12345678

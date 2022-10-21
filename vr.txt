@@ -1,6 +1,6 @@
 {
     "name": "יצחק א.",
-    "vr": "2",
+    "vr": "1",
     "img": "https://raw.githubusercontent.com/yesite/site/main/icon/hm.png",
     "chatzos": "12:41:3",
     "shkia": "19:48:22"
